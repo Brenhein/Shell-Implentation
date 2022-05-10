@@ -1,7 +1,7 @@
 /*
 * Brenden Hein
 *
-* proj05.student.c
+* shell.c
 *
 * This file processes a series of command line arguemnts to replecate a 
 * basic command line interpreter
